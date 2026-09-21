@@ -3,3 +3,6 @@ authors = []
 language = "en"
 src = "src"
 title = "Adrien Gaillard--Lafargue: Portfolio"
+
+[output.html]
+site-url = "/my-portfolio/"
