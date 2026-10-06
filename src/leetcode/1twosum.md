@@ -4,7 +4,7 @@
 
 ![Problem 1 statement](../img/1.png)
 
-## First intuition: Brute Force O(n²)
+## First intuition: Brute Force
 
 The **Two Sum** problem is the first problem that appears on LeetCode when you arrive on the platform. Obviously, it's a beginner-level problem, and because of that, it also accepts beginner-level answers.
 
@@ -36,7 +36,7 @@ class Solution:
 
 Somehow, it passed all the test cases. But we can solve this problem in a more efficient way.
 
-## Best solution: Hash map O(n)
+## Best solution: Hash map
 
 We can use a [map](https://www.geeksforgeeks.org/dsa/introduction-to-map-data-structure/). Each entry will have, as a key, an item of the list and, as a value, the index of the item in the list.
 

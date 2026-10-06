@@ -5,7 +5,7 @@
 ![Problem 2 statement](../img/2_1.png)
 ![Problem 2 examples](../img/2_2.png)
 
-## Add node by node, carry usage, dummy node: O(n)
+## Add node by node, carry usage, dummy node
 
 One way of solving this problem is by using the classic method of doing sums. Indeed, all the digits are separated, each in one node. So we can add each digit of each number together and use a carry if the sum of those digits is greater than 9. We do this for every digit, by adding the carry value to the sum each time, until there are no more nodes in the two lists and the carry value is 0.
 

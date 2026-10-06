@@ -4,7 +4,7 @@
 
 ![Problem 344 statement](../img/344.png)
 
-## Two pointers method: O(n)
+## Two pointers method
 
 Reversing a string is a well-known exercise for new developers. Especially in low-level languages like [C](https://en.wikipedia.org/wiki/C_(programming_language)), it is a good way to understand how to manipulate memory. For someone who has some experience with algorithms and programming, the solution is maybe not a mystery.
 
