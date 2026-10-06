@@ -81,6 +81,6 @@ class Solution:
         nums[k:] = nums[k:][::-1]
 ```
 
-# Conclusion
+## Conclusion
 
 Here we saw that we can answer a problem with multiple solutions. Sometimes you will have to think about speed, sometimes about space. Most of the time, the best solution is the one that is the best in both domains. Also, if you really think about it, the second method and the best one are not that different from each other, but you have to know the complexity of the actions you perform on a data structure (here, inserting at the beginning) to know that it slows your algorithm and think more about it to find a better way to do it.

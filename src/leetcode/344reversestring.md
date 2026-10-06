@@ -32,6 +32,6 @@ class Solution:
             j -= 1
 ```
 
-# Conclusion
+## Conclusion
 
 This problem is very good for beginners, as it explores some fundamental concepts in programming, which are indexes and lists. It is also a good introduction to "in-place" algorithms and space complexity constraints.
