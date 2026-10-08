@@ -8,3 +8,4 @@
     - [189 - Rotate Array](./leetcode/189rotatearray.md)
     - [206 - Reverse Linked List](./leetcode/206reverselinkedlist.md)
     - [344 - Reverse String](./leetcode/344reversestring.md)
+    - [1823 - Find The Winner Of The Circular Game](./leetcode/1823findthewinnerofthecirculargame.md)
