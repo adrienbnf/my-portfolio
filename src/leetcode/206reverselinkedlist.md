@@ -7,7 +7,7 @@
 
 ## Three pointers method
 
-If you ever manipulate a linked list, you should already know the solution to this problem.
+If you ever manipulated a linked list, you should already know the solution to this problem.
 
 We can use the following algorithm:
 
